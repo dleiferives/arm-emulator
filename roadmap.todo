@@ -1,0 +1,6 @@
+1 - implement registers 
+2 - figure out the cycle timing for the instructions, and the pipeline stuff. Maybe we assume perfect? I'm not sure.
+3 - Implement the instructions
+4 - Implement the memory
+5 - Implement the IO
+
