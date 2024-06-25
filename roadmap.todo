@@ -1,6 +1,10 @@
-1 - implement registers 
-2 - figure out the cycle timing for the instructions, and the pipeline stuff. Maybe we assume perfect? I'm not sure.
-3 - Implement the instructions
-4 - Implement the memory
-5 - Implement the IO
-
+1: implement registers 
+  - Get way to print FP and do the operations
+  - use big int to do the printing.
+  -- finish big int division and subtraction
+  - use contribution from every position look to the oeis thing
+  
+2: figure out the cycle timing for the instructions, and the pipeline stuff. Maybe we assume perfect? I'm not sure.
+3: Implement the instructions
+4: Implement the memory
+5: Implement the IO
